@@ -1,0 +1,13 @@
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\netcoreapp3.1\SubArrayWithGivenSum.exe
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\netcoreapp3.1\SubArrayWithGivenSum.deps.json
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\netcoreapp3.1\SubArrayWithGivenSum.runtimeconfig.json
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\netcoreapp3.1\SubArrayWithGivenSum.runtimeconfig.dev.json
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\netcoreapp3.1\SubArrayWithGivenSum.dll
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\bin\Debug\netcoreapp3.1\SubArrayWithGivenSum.pdb
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\netcoreapp3.1\SubArrayWithGivenSum.csprojAssemblyReference.cache
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\netcoreapp3.1\SubArrayWithGivenSum.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\netcoreapp3.1\SubArrayWithGivenSum.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\netcoreapp3.1\SubArrayWithGivenSum.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\netcoreapp3.1\SubArrayWithGivenSum.dll
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\netcoreapp3.1\SubArrayWithGivenSum.pdb
+C:\Users\Sagar\source\repos\SubArrayWithGivenSum\SubArrayWithGivenSum\obj\Debug\netcoreapp3.1\SubArrayWithGivenSum.genruntimeconfig.cache
